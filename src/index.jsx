@@ -2,6 +2,7 @@ import featureImage from './feature.png';
 
 export default {
   disabled: true,
+  sortIndex: 101,
   image: featureImage,
   name: 'micro:bit',
   description: 'Connect your projects with the world.',
